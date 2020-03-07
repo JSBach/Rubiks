@@ -1,0 +1,10 @@
+C:\Projects\Programms\Rubik\Rubik\bin\Debug\Rubik.exe.config
+C:\Projects\Programms\Rubik\Rubik\bin\Debug\Rubik.exe
+C:\Projects\Programms\Rubik\Rubik\bin\Debug\Rubik.pdb
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.csprojAssemblyReference.cache
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.Form1.resources
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.Properties.Resources.resources
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.csproj.GenerateResource.cache
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.csproj.CoreCompileInputs.cache
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.exe
+C:\Projects\Programms\Rubik\Rubik\obj\Debug\Rubik.pdb

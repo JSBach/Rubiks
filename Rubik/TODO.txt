@@ -1,0 +1,6 @@
+﻿- set up transformations (rotation and shifting)
+- make a cube
+	- in particular, find out how to do hiding invisible surfaces
+- compose each side of the cube from small squares (9 squares in each surface)
+
+- do modeling and mapping
